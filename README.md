@@ -6,7 +6,6 @@ Aujourd'hui je construis surtout des outils et des automatisations en Python, su
 ## Ce que je fais ici
 Des projets de réseaux, développement, sécurité et d'infra, des scripts, et ce que j'apprends en route.
 
-## intérêts 
 - Outils internes, des API et des projets d’automatisation.
 - infrastructure et réseau
 - sécurité applicative (gestion des accès, authentification, structuration d’API)
