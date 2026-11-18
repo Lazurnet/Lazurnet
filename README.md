@@ -1,5 +1,4 @@
 Junior en informatique, mon intérêt pour la programmation m'a progressivement poussé à m'intéresser aux systèmes, les réseaux, et la façon de les sécuriser.  
-je construis des outils et des automatisations en Python, sur Linux, et j'attache une attention particulière à l'accès, l'authentification et le réseau.
 
 **Python · Linux · Réseaux · Cybersécurité**
 
