@@ -1,4 +1,4 @@
-Junior en informatique, mon intérêt pour la programmation m'a progressivement poussé à m'intéresser aux systèmes, les réseaux, et la façon de les sécuriser.  
+Junior en informatique, mon intérêt pour la programmation m'a progressivement poussé à m'intéresser aux réseaux, et la façon de les sécuriser.  
 
 **Python · Linux · Réseaux · Cybersécurité**
 
